@@ -141,8 +141,6 @@ elif analyze and not text.strip():
 # ---- Footer ----
 st.markdown("---")
 st.markdown("<div style='text-align:center; color:#888888; font-size:14px;'>© Framehouse Press & Design — Literary AI Studio</div>", unsafe_allow_html=True)
-streamlit
-torch
-transformers
+
 
 
